@@ -16,14 +16,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
-![Desktop](.images/Screenshot (16).png)
-![Mobile](.images\Screenshot (17).png)
+![](.images/Screenshot (16).png)
+![](.images\Screenshot (17).png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Kotent/First-project/tree/main/qr-code-component-main)
+- Solution URL: [(https://github.com/Kotent/First-project/tree/main/qr-code-component-main)]
 
 
 ## My process
